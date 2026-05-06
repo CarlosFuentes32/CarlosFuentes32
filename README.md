@@ -39,7 +39,7 @@ Durante el desarrollo del portafolio se realizaron forks de repositorios externo
 
 ### 📌 Fork 1
 
-Repositorio: `jleival.github.io`
+Link Repositorio: https://github.com/CarlosFuentes32/jleival.github.io
 
 * Se realizó fork del repositorio original
 * ✔ Commit realizado:
@@ -53,7 +53,7 @@ Repositorio: `jleival.github.io`
 
 ### 📌 Fork 2
 
-Repositorio: `Kevin-alcaino.io`
+link Repositorio: (https://github.com/CarlosFuentes32/Kevin-alcaino.io)
 
 * Se realizó fork del repositorio original
 * ✔ Commit realizado:
