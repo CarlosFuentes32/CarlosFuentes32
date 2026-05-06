@@ -1,4 +1,3 @@
-
 # 👋 Hola, soy Carlos Fuentes
 
 💻 Desarrollador Full Stack JavaScript en formación
@@ -28,9 +27,41 @@ Profesional con experiencia en ventas, atención al cliente y gestión operativa
 ### Proyectos destacados
 
 * 🧾 CV Warren Buffett
-* ❤️ Tres Corazones (emprendimiento)
+* ❤️ Tres Corazones
 * 🦎 Iguana Page
 * 🎟️ Cuppon
+
+---
+
+## 🔀 FORK Y COMMITS
+
+Durante el desarrollo del portafolio se realizaron forks de repositorios externos y commits correspondientes como evidencia de trabajo con GitHub.
+
+### 📌 Fork 1
+
+Repositorio: `jleival.github.io`
+
+* Se realizó fork del repositorio original
+* ✔ Commit realizado:
+
+  * git commit -m "se modifica color de navbar-brand"
+
+📸 Evidencia:
+ (./asset/img/fork1.png)
+
+---
+
+### 📌 Fork 2
+
+Repositorio: `Kevin-alcaino.io`
+
+* Se realizó fork del repositorio original
+* ✔ Commit realizado:
+
+  * git commit -m "se modifica background-color de header"
+
+📸 Evidencia:
+(./asset/img/fork2.png)
 
 ---
 
