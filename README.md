@@ -47,7 +47,7 @@ Repositorio: `jleival.github.io`
   * git commit -m "se modifica color de navbar-brand"
 
 📸 Evidencia:
- (./asset/img/fork1.png)
+ ![fork1](./asset/img/fork2.png)
 
 ---
 
@@ -61,7 +61,7 @@ Repositorio: `Kevin-alcaino.io`
   * git commit -m "se modifica background-color de header"
 
 📸 Evidencia:
-(./asset/img/fork2.png)
+![fork2](./asset/img/fork1.png)
 
 ---
 
